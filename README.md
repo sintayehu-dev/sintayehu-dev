@@ -10,76 +10,21 @@
 <a href="https://www.youtube.com/c/http://www.youtube.com/@trialblazers_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@trialblazers_tech" height="30" width="40" /></a>
 </p>
 
-<style>
-    .container {
-       
-    }
-
-    .column {
-        
-    }
-</style>
 
 <h3 align="left">Languages and Tools:</h3>
+<pre>backend     frontend     database     testing
+    <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> python     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> HTML   
+ <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>Django <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> HTML  
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>CSS   
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>JS
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>bootstrap
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>react
+   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>postgresql
+   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> mysql
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> selenium
+ <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> PHP
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> JAVA </p>
 
-<div class="container" style=" display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <div class="column" style="flex: 24%;  padding: 10px; box-sizing: border-box;">
-        <p align="left"> 
-            <strong>Backend:</strong><br>
-            <a href="https://www.python.org" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-            </a> Python<br>
-            <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-                <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-            </a> Django<br>
-            <a href="https://www.php.net" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-            </a> PHP<br>
-            <a href="https://www.java.com" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-            </a> Java
-        </p>
-    </div>
-
-<div class="column" style="flex: 24%;  padding: 10px; box-sizing: border-box;">
-        <p align="left"> 
-            <strong>Frontend:</strong><br>
-            <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-            </a> HTML<br>
-            <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-            </a> CSS<br>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-            </a> JavaScript<br>
-            <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-            </a> React
-        </p>
-    </div>
-
-<div class="column" style="flex: 24%;  padding: 10px; box-sizing: border-box;">
-        <p align="left"> 
-            <strong>Database:</strong><br>
-            <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-            </a> PostgreSQL<br>
-            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-            </a> MySQL
-        </p>
-    </div>
-
-<div class="column" style="flex: 24%;  padding: 10px; box-sizing: border-box;">
-        <p align="left"> 
-            <strong>Testing:</strong><br>
-            <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-            </a> Selenium
-        </p>
-    </div>
-</div>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sintayehu-dev&show_icons=true&locale=en&layout=compact" alt="sintayehu-dev" /></p>
