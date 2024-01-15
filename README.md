@@ -1,7 +1,7 @@
 ![logo](https://github.com/sintayehu-dev/sintayehu-dev/blob/main/profile.jpg)
 <h1 align="center">Hi 👋, I'm Sintayehu Belfa</h1>
 <h3 align="center">A passionate web developer from Ethiopia</h3>
-<img align="right" alt="Hi welcome to my profile" width="400" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"
+<img align="right" alt="Hi welcome to my profile" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sintayehu-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sintayehu-dev" /> </p>
 
