@@ -10,10 +10,24 @@
 <a href="https://www.youtube.com/c/http://www.youtube.com/@trialblazers_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@trialblazers_tech" height="30" width="40" /></a>
 </p>
 
+<style>
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .column {
+        flex: 24%;
+        padding: 10px;
+        box-sizing: border-box;
+    }
+</style>
+
 <h3 align="left">Languages and Tools:</h3>
 
-<div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 25%; padding: 10px;">
+<div class="container">
+    <div class="column">
         <p align="left"> 
             <strong>Backend:</strong><br>
             <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -31,7 +45,7 @@
         </p>
     </div>
 
-   <div style="flex: 25%; padding: 10px;">
+<div class="column">
         <p align="left"> 
             <strong>Frontend:</strong><br>
             <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -49,7 +63,7 @@
         </p>
     </div>
 
-   <div style="flex: 25%; padding: 10px;">
+<div class="column">
         <p align="left"> 
             <strong>Database:</strong><br>
             <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
@@ -61,7 +75,7 @@
         </p>
     </div>
 
-   <div style="flex: 25%; padding: 10px;">
+<div class="column">
         <p align="left"> 
             <strong>Testing:</strong><br>
             <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
