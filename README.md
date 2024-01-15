@@ -6,9 +6,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-✔&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/https://www.linkedin.com/in/sintayehu-belfa-1263262a1?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3btpdemt6nqpef3x51%2ffugvw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sintayehu-belfa-1263262a1?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3btpdemt6nqpef3x51%2ffugvw%3d%3d" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;✔&nbsp;&nbsp;&nbsp;
-<a href="https://youtube.com/@Trialblazers_tech?si=Wk0C3aoRmyV3FmNa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@trialblazers_tech" height="30" width="40"/></a>
-</p>&nbsp;&nbsp;Trialblazers_tech
+✔&nbsp;<a href="https://linkedin.com/in/https://www.linkedin.com/in/sintayehu-belfa-1263262a1?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3btpdemt6nqpef3x51%2ffugvw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sintayehu-belfa-1263262a1?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3btpdemt6nqpef3x51%2ffugvw%3d%3d" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔&nbsp;
+<a href="https://youtube.com/@Trialblazers_tech?si=Wk0C3aoRmyV3FmNa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@trialblazers_tech" height="30" width="40"/></a>&nbsp;&nbsp;Trialblazers_tech
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
