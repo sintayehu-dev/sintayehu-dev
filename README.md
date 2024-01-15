@@ -1,3 +1,4 @@
+![logo](https://github.com/sintayehu-dev/sintayehu-dev/blob/main/profile.jpg)
 <h1 align="center">Hi 👋, I'm Sintayehu Belfa</h1>
 <h3 align="center">A passionate web developer from Ethiopia</h3>
 <img align="right" alt="Hi welcome to my profile" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4502924-Python-developer- animation&psig=AOvVaw1n8EVwv2GVI0GTSsj--H3f&ust=1705412062403000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjJi5fB34MDFQAAAAAdAAAAABAD"
