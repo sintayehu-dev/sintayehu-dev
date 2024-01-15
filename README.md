@@ -12,22 +12,18 @@
 
 <style>
     .container {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
+       
     }
 
     .column {
-        flex: 24%;
-        padding: 10px;
-        box-sizing: border-box;
+        
     }
 </style>
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div class="container">
-    <div class="column">
+<div class="container" style=" display: flex; flex-wrap: wrap; justify-content: space-between;">
+    <div class="column" style="flex: 24%;  padding: 10px; box-sizing: border-box;">
         <p align="left"> 
             <strong>Backend:</strong><br>
             <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -45,7 +41,7 @@
         </p>
     </div>
 
-<div class="column">
+<div class="column" style="flex: 24%;  padding: 10px; box-sizing: border-box;">
         <p align="left"> 
             <strong>Frontend:</strong><br>
             <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -63,7 +59,7 @@
         </p>
     </div>
 
-<div class="column">
+<div class="column" style="flex: 24%;  padding: 10px; box-sizing: border-box;">
         <p align="left"> 
             <strong>Database:</strong><br>
             <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
@@ -75,7 +71,7 @@
         </p>
     </div>
 
-<div class="column">
+<div class="column" style="flex: 24%;  padding: 10px; box-sizing: border-box;">
         <p align="left"> 
             <strong>Testing:</strong><br>
             <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
