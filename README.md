@@ -3,12 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Sintayehu+Belfa;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi +%F0%9F%91%8B%2C+I'm+Sintayehu+Belfa;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/sintayehu-dev/sintayehu-dev/blob/main/profile.jpg" alt="Profile Picture" width="200" style="border-radius: 50%; border: 3px solid #2196F3; box-shadow: 0 0 20px rgba(33, 150, 243, 0.3);"/>
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sintayehu-dev&label=Profile%20views&color=2196F3&style=flat-square" alt="sintayehu-dev" />
@@ -18,48 +15,31 @@
 <div style="background-color: #f8f9fa; padding: 30px; border-radius: 15px; margin: 20px 0; box-shadow: 0 0 20px rgba(33, 150, 243, 0.1);">
   <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 30px;">
     <div>
-      <h3 style="color: #2196F3; margin-bottom: 15px; font-size: 24px;">👨‍💻 Who am I?</h3>
-      <p style="margin: 0; line-height: 1.8; font-size: 16px; color: #333;">
+      <h3 style="color: #2196F3; margin-bottom: 15px; font-size: 24px; font-weight: 700;">👨‍💻 Who am I?</h3>
+      <p style="margin: 0; line-height: 1.8; font-size: 16px; color: #333; font-weight: 500;">
         I'm a passionate Full Stack Developer with expertise in both frontend and backend technologies. I love creating efficient, scalable, and user-friendly applications. My goal is to build solutions that make a positive impact on people's lives.
       </p>
     </div>
     <div>
-      <h3 style="color: #2196F3; margin-bottom: 15px; font-size: 24px;">🎯 What I Do</h3>
+      <h3 style="color: #2196F3; margin-bottom: 15px; font-size: 24px; font-weight: 700;">🎯 What I Do</h3>
       <ul style="list-style: none; padding: 0; margin: 0;">
-        <li style="margin-bottom: 10px; display: flex; align-items: center;">
-          <span style="color: #2196F3; margin-right: 10px;">▹</span>
+        <li style="margin-bottom: 10px; display: flex; align-items: center; font-weight: 500;">
+          <span style="color: #2196F3; margin-right: 10px; font-weight: 700;">▹</span>
           Develop responsive and modern web applications
         </li>
-        <li style="margin-bottom: 10px; display: flex; align-items: center;">
-          <span style="color: #2196F3; margin-right: 10px;">▹</span>
+        <li style="margin-bottom: 10px; display: flex; align-items: center; font-weight: 500;">
+          <span style="color: #2196F3; margin-right: 10px; font-weight: 700;">▹</span>
           Build robust backend systems and APIs
         </li>
-        <li style="margin-bottom: 10px; display: flex; align-items: center;">
-          <span style="color: #2196F3; margin-right: 10px;">▹</span>
+        <li style="margin-bottom: 10px; display: flex; align-items: center; font-weight: 500;">
+          <span style="color: #2196F3; margin-right: 10px; font-weight: 700;">▹</span>
           Create cross-platform mobile applications
         </li>
-        <li style="margin-bottom: 10px; display: flex; align-items: center;">
-          <span style="color: #2196F3; margin-right: 10px;">▹</span>
+        <li style="margin-bottom: 10px; display: flex; align-items: center; font-weight: 500;">
+          <span style="color: #2196F3; margin-right: 10px; font-weight: 700;">▹</span>
           Design and optimize database solutions
         </li>
       </ul>
-    </div>
-  </div>
-  <div style="margin-top: 30px; padding-top: 20px; border-top: 2px solid rgba(33, 150, 243, 0.1);">
-    <h3 style="color: #2196F3; margin-bottom: 15px; font-size: 24px;">💡 Core Competencies</h3>
-    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
-      <div style="background: white; padding: 15px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
-        <h4 style="color: #2196F3; margin: 0 0 10px 0;">Frontend</h4>
-        <p style="margin: 0; color: #666;">React, Flutter, Redux, Bootstrap</p>
-      </div>
-      <div style="background: white; padding: 15px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
-        <h4 style="color: #2196F3; margin: 0 0 10px 0;">Backend</h4>
-        <p style="margin: 0; color: #666;">Java, Spring Boot, Go, Python</p>
-      </div>
-      <div style="background: white; padding: 15px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
-        <h4 style="color: #2196F3; margin: 0 0 10px 0;">Database</h4>
-        <p style="margin: 0; color: #666;">PostgreSQL, MySQL</p>
-      </div>
     </div>
   </div>
 </div>
