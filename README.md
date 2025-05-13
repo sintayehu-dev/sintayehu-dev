@@ -15,8 +15,15 @@
 </div>
 
 ## 🚀 About Me
-<div style="background-color: #f8f9fa; padding: 20px; border-radius: 10px; margin: 20px 0;">
-  I'm a passionate Full Stack Developer with expertise in both frontend and backend technologies. I love creating efficient, scalable, and user-friendly applications. My goal is to build solutions that make a positive impact on people's lives.
+<div style="display: flex; gap: 20px; background-color: #f8f9fa; padding: 20px; border-radius: 10px; margin: 20px 0;">
+  <div style="flex: 1;">
+    <p style="margin: 0; line-height: 1.6;">
+      I'm a passionate Full Stack Developer with expertise in both frontend and backend technologies. I love creating efficient, scalable, and user-friendly applications. My goal is to build solutions that make a positive impact on people's lives.
+    </p>
+  </div>
+  <div style="flex: 1;">
+    <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Coding" width="100%" style="border-radius: 10px;"/>
+  </div>
 </div>
 
 ## 🌐 Connect with Me
