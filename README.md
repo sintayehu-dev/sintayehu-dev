@@ -1,5 +1,5 @@
 # <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=200&section=header&text=Sintayehu%20Belfa&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="Header Banner"/>
+  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Coding" width="400"/>
 </div>
 
 <div align="center">
@@ -70,13 +70,4 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sintayehu-dev&theme=radical&row=1" alt="GitHub Trophies"/>
-</div>
-
----
-<div align="center">
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Coding" width="400"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=100&section=footer" alt="Footer Banner"/>
 </div>
