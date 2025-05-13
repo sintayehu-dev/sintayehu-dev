@@ -1,5 +1,5 @@
 # <div align="center">
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Coding" width="400"/>
+  <img src="https://github.com/sintayehu-dev/sintayehu-dev/blob/main/profile.jpg" alt="Profile Banner" width="100%" style="border-radius: 10px; box-shadow: 0 0 20px rgba(33, 150, 243, 0.3);"/>
 </div>
 
 <div align="center">
