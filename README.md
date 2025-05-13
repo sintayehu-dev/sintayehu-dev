@@ -8,9 +8,7 @@
   </div>
 </div>
 
-<div align="center">
-  <img src="https://github.com/sintayehu-dev/sintayehu-dev/blob/main/profile.jpg" alt="Profile Picture" width="200" style="border-radius: 50%; border: 3px solid #2196F3; box-shadow: 0 0 20px rgba(33, 150, 243, 0.3);"/>
-</div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sintayehu-dev&label=Profile%20views&color=2196F3&style=flat-square" alt="sintayehu-dev" />
