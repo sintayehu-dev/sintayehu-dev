@@ -15,15 +15,52 @@
 </div>
 
 ## 🚀 About Me
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; background-color: #f8f9fa; padding: 20px; border-radius: 10px; margin: 20px 0;">
-  <div style="display: flex; flex-direction: column; justify-content: center;">
-    <h3 style="color: #2196F3; margin-bottom: 15px;">Who am I?</h3>
-    <p style="margin: 0; line-height: 1.8; font-size: 16px;">
-      I'm a passionate Full Stack Developer with expertise in both frontend and backend technologies. I love creating efficient, scalable, and user-friendly applications. My goal is to build solutions that make a positive impact on people's lives.
-    </p>
+<div style="background-color: #f8f9fa; padding: 30px; border-radius: 15px; margin: 20px 0; box-shadow: 0 0 20px rgba(33, 150, 243, 0.1);">
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 30px;">
+    <div>
+      <h3 style="color: #2196F3; margin-bottom: 15px; font-size: 24px;">👨‍💻 Who am I?</h3>
+      <p style="margin: 0; line-height: 1.8; font-size: 16px; color: #333;">
+        I'm a passionate Full Stack Developer with expertise in both frontend and backend technologies. I love creating efficient, scalable, and user-friendly applications. My goal is to build solutions that make a positive impact on people's lives.
+      </p>
+    </div>
+    <div>
+      <h3 style="color: #2196F3; margin-bottom: 15px; font-size: 24px;">🎯 What I Do</h3>
+      <ul style="list-style: none; padding: 0; margin: 0;">
+        <li style="margin-bottom: 10px; display: flex; align-items: center;">
+          <span style="color: #2196F3; margin-right: 10px;">▹</span>
+          Develop responsive and modern web applications
+        </li>
+        <li style="margin-bottom: 10px; display: flex; align-items: center;">
+          <span style="color: #2196F3; margin-right: 10px;">▹</span>
+          Build robust backend systems and APIs
+        </li>
+        <li style="margin-bottom: 10px; display: flex; align-items: center;">
+          <span style="color: #2196F3; margin-right: 10px;">▹</span>
+          Create cross-platform mobile applications
+        </li>
+        <li style="margin-bottom: 10px; display: flex; align-items: center;">
+          <span style="color: #2196F3; margin-right: 10px;">▹</span>
+          Design and optimize database solutions
+        </li>
+      </ul>
+    </div>
   </div>
-  <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Coding" style="width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 0 0 15px rgba(0,0,0,0.1);"/>
+  <div style="margin-top: 30px; padding-top: 20px; border-top: 2px solid rgba(33, 150, 243, 0.1);">
+    <h3 style="color: #2196F3; margin-bottom: 15px; font-size: 24px;">💡 Core Competencies</h3>
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+      <div style="background: white; padding: 15px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+        <h4 style="color: #2196F3; margin: 0 0 10px 0;">Frontend</h4>
+        <p style="margin: 0; color: #666;">React, Flutter, Redux, Bootstrap</p>
+      </div>
+      <div style="background: white; padding: 15px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+        <h4 style="color: #2196F3; margin: 0 0 10px 0;">Backend</h4>
+        <p style="margin: 0; color: #666;">Java, Spring Boot, Go, Python</p>
+      </div>
+      <div style="background: white; padding: 15px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+        <h4 style="color: #2196F3; margin: 0 0 10px 0;">Database</h4>
+        <p style="margin: 0; color: #666;">PostgreSQL, MySQL</p>
+      </div>
+    </div>
   </div>
 </div>
 
