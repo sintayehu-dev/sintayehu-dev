@@ -1,4 +1,5 @@
 # <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=200&section=header&text=Sintayehu%20Belfa&fontSize=80&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=55&descAlign=50" alt="Header Banner"/>
 </div>
 
 <div align="center" style="margin: 30px 0;">
@@ -7,19 +8,27 @@
   </div>
 </div>
 
-
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sintayehu-dev&label=Profile%20views&color=2196F3&style=flat-square" alt="sintayehu-dev" />
 </div>
 
 ## 🚀 About Me
-<div style="background-color: #f8f9fa; padding: 30px; border-radius: 15px; margin: 20px 0; box-shadow: 0 0 20px rgba(33, 150, 243, 0.1);">
+<div style="background-color: #f8f9fa; padding: 30px; border-radius: 15px; margin: 20px 0; box-shadow: 0 0 20px rgba(33, 150, 243, 0.1); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 30px;">
     <div>
       <h3 style="color: #2196F3; margin-bottom: 15px; font-size: 24px; font-weight: 700;">👨‍💻 Who am I?</h3>
       <p style="margin: 0; line-height: 1.8; font-size: 16px; color: #333; font-weight: 500;">
-        I'm a passionate Full Stack Developer with expertise in both frontend and backend technologies. I love creating efficient, scalable, and user-friendly applications. My goal is to build solutions that make a positive impact on people's lives.
+        I'm a passionate Full Stack Developer with a strong foundation in both frontend and backend technologies. With expertise in modern frameworks and languages, I specialize in building robust, scalable, and user-friendly applications. My journey in tech is driven by a constant desire to learn and innovate.
+      </p>
+    </div>
+    <div>
+      <h3 style="color: #2196F3; margin-bottom: 15px; font-size: 24px; font-weight: 700;">🎯 What I Do</h3>
+      <p style="margin: 0; line-height: 1.8; font-size: 16px; color: #333; font-weight: 500;">
+        • Develop responsive and intuitive user interfaces using React and Flutter<br>
+        • Build scalable backend systems with Spring Boot and Django<br>
+        • Design and optimize database architectures<br>
+        • Create RESTful APIs and microservices<br>
+        • Implement CI/CD pipelines and DevOps practices
       </p>
     </div>
   </div>
@@ -84,4 +93,4 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=100&section=footer" alt="Footer Banner"/>
-</div>   like footer add on this modern header b
+</div>
