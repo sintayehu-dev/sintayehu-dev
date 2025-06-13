@@ -13,16 +13,29 @@
 </div>
 
 ## 🚀 About Me
-<div style="background-color: #f8f9fa; padding: 30px; border-radius: 15px; margin: 20px 0; box-shadow: 0 0 20px rgba(33, 150, 243, 0.1);">
-  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 30px;">
-    <div>
-      <h3 style="color: #2196F3; margin-bottom: 15px; font-size: 24px; font-weight: 700;">👨‍💻 Who am I?</h3>
-      <p style="margin: 0; line-height: 1.8; font-size: 16px; color: #333; font-weight: 500;">
-        I'm a passionate Full Stack Developer with expertise in both frontend and backend technologies. I love creating efficient, scalable, and user-friendly applications. My goal is to build solutions that make a positive impact on people's lives.
-      </p>
-    </div>
-  </div>
+
+<div align="center" style="background-color: #f8f9fa; padding: 30px; border-radius: 15px; margin: 20px 0; box-shadow: 0 0 20px rgba(33, 150, 243, 0.1); max-width: 900px; font-family: 'Roboto', sans-serif;">
+
+  <h3 style="color: #2196F3; margin-bottom: 15px; font-size: 26px; font-weight: 700;">👨‍💻 Full Stack Developer | Flutter & React | Go & Spring</h3>
+
+  <p style="font-size: 16px; line-height: 1.8; color: #333;">
+    I'm <strong>Sintayehu Belfa</strong>, a passionate Full Stack Developer who loves building modern, responsive, and scalable applications. I specialize in crafting seamless user experiences with <strong>Flutter</strong> and <strong>React</strong>, while architecting powerful APIs and services using <strong>Go</strong>, <strong>Spring Boot</strong>, and <strong>Django</strong>.
+  </p>
+
+  <p style="font-size: 16px; line-height: 1.8; color: #333;">
+    I enjoy solving complex problems and delivering elegant code, whether it's designing intuitive UIs, implementing business logic, or optimizing databases like <strong>PostgreSQL</strong> and <strong>MySQL</strong>. I'm continuously exploring best practices in clean architecture, DDD, and DevOps principles.
+  </p>
+
+  <p style="font-size: 16px; line-height: 1.8; color: #333;">
+    🔧 Tech I'm currently working with includes: <strong>Flutter + BLoC</strong>, <strong>React + Redux</strong>, <strong>Gin (Go)</strong>, <strong>Spring Boot</strong>, and <strong>RESTful APIs</strong>. I'm a strong believer in lifelong learning and open-source collaboration.
+  </p>
+
+  <p style="font-size: 16px; line-height: 1.8; color: #333;">
+    🎯 My mission is to build impactful software solutions that not only meet client needs but also bring positive change to users' everyday lives.
+  </p>
+
 </div>
+
 
 ## 🌐 Connect with Me
 <div align="center">
