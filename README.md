@@ -14,24 +14,17 @@
 
 ## 🚀 About Me
 <div style="background-color: #f8f9fa; padding: 30px; border-radius: 15px; margin: 20px 0; box-shadow: 0 0 20px rgba(33, 150, 243, 0.1); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 30px;">
-    <div>
-      <h3 style="color: #2196F3; margin-bottom: 15px; font-size: 24px; font-weight: 700;">👨‍💻 Who am I?</h3>
-      <p style="margin: 0; line-height: 1.8; font-size: 16px; color: #333; font-weight: 500;">
-        I'm a passionate Full Stack Developer with a strong foundation in both frontend and backend technologies. With expertise in modern frameworks and languages, I specialize in building robust, scalable, and user-friendly applications. My journey in tech is driven by a constant desire to learn and innovate.
-      </p>
-    </div>
-    <div>
-      <h3 style="color: #2196F3; margin-bottom: 15px; font-size: 24px; font-weight: 700;">🎯 What I Do</h3>
-      <p style="margin: 0; line-height: 1.8; font-size: 16px; color: #333; font-weight: 500;">
-        • Develop responsive and intuitive user interfaces using React and Flutter<br>
-        • Build scalable backend systems with Spring Boot and Django<br>
-        • Design and optimize database architectures<br>
-        • Create RESTful APIs and microservices<br>
-        • Implement CI/CD pipelines and DevOps practices
-      </p>
-    </div>
-  </div>
+  <p style="margin: 0; line-height: 1.8; font-size: 16px; color: #333; font-weight: 500;">
+    I'm a passionate Full Stack Developer specializing in mobile app development and high-performance backend systems. With expertise in Flutter and React Native, I create cross-platform mobile applications that deliver seamless user experiences across iOS and Android platforms. My backend development focuses on Go and Spring Boot, where I build scalable, efficient systems and microservices architectures.
+  </p>
+  <br>
+  <p style="margin: 0; line-height: 1.8; font-size: 16px; color: #333; font-weight: 500;">
+    As a developer, I prioritize clean code, performance optimization, and intuitive user interfaces. I'm experienced in implementing RESTful APIs, database design, and CI/CD pipelines. My approach combines technical excellence with a strong focus on user experience, ensuring that every application I build is not only robust and maintainable but also delightful to use.
+  </p>
+  <br>
+  <p style="margin: 0; line-height: 1.8; font-size: 16px; color: #333; font-weight: 500;">
+    I'm constantly learning and adapting to new technologies, with a particular interest in mobile development trends and Go's growing ecosystem. My goal is to create solutions that make a positive impact while maintaining high standards of code quality and performance.
+  </p>
 </div>
 
 ## 🌐 Connect with Me
