@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=100&section=header" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=200&section=header&text=Sintayehu%20Belfa&fontSize=40&fontColor=ffffff" alt="Header Banner with Name"/>
 </div>
 
 <div align="center" style="margin: 30px 0;">
