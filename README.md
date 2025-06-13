@@ -1,5 +1,5 @@
 # <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=200&section=header&text=Sintayehu%20Belfa&fontSize=80&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=55&descAlign=50" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=200&section=header&text=Sintayehu%20Belfa&fontSize=80&fontAlignY=35&animation=twinkling" alt="Header Banner"/>
 </div>
 
 <div align="center" style="margin: 30px 0;">
@@ -11,20 +11,31 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sintayehu-dev&label=Profile%20views&color=2196F3&style=flat-square" alt="sintayehu-dev" />
 </div>
+# <div align="center">
+</div>
+
+<div align="center" style="margin: 30px 0;">
+  <div style="background: linear-gradient(45deg, #2196F3, #00BCD4); padding: 20px; border-radius: 15px; box-shadow: 0 0 20px rgba(33, 150, 243, 0.2);">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=500&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Sintayehu+Belfa;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  </div>
+</div>
+
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sintayehu-dev&label=Profile%20views&color=2196F3&style=flat-square" alt="sintayehu-dev" />
+</div>
 
 ## 🚀 About Me
-<div style="background-color: #f8f9fa; padding: 30px; border-radius: 15px; margin: 20px 0; box-shadow: 0 0 20px rgba(33, 150, 243, 0.1); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <p style="margin: 0; line-height: 1.8; font-size: 16px; color: #333; font-weight: 500;">
-    I'm a passionate Full Stack Developer specializing in mobile app development and high-performance backend systems. With expertise in Flutter and React Native, I create cross-platform mobile applications that deliver seamless user experiences across iOS and Android platforms. My backend development focuses on Go and Spring Boot, where I build scalable, efficient systems and microservices architectures.
-  </p>
-  <br>
-  <p style="margin: 0; line-height: 1.8; font-size: 16px; color: #333; font-weight: 500;">
-    As a developer, I prioritize clean code, performance optimization, and intuitive user interfaces. I'm experienced in implementing RESTful APIs, database design, and CI/CD pipelines. My approach combines technical excellence with a strong focus on user experience, ensuring that every application I build is not only robust and maintainable but also delightful to use.
-  </p>
-  <br>
-  <p style="margin: 0; line-height: 1.8; font-size: 16px; color: #333; font-weight: 500;">
-    I'm constantly learning and adapting to new technologies, with a particular interest in mobile development trends and Go's growing ecosystem. My goal is to create solutions that make a positive impact while maintaining high standards of code quality and performance.
-  </p>
+<div style="background-color: #f8f9fa; padding: 30px; border-radius: 15px; margin: 20px 0; box-shadow: 0 0 20px rgba(33, 150, 243, 0.1);">
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 30px;">
+    <div>
+      <h3 style="color: #2196F3; margin-bottom: 15px; font-size: 24px; font-weight: 700;">👨‍💻 Who am I?</h3>
+      <p style="margin: 0; line-height: 1.8; font-size: 16px; color: #333; font-weight: 500;">
+        I'm a passionate Full Stack Developer with expertise in both frontend and backend technologies. I love creating efficient, scalable, and user-friendly applications. My goal is to build solutions that make a positive impact on people's lives.
+      </p>
+    </div>
+  </div>
 </div>
 
 ## 🌐 Connect with Me
@@ -86,4 +97,4 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=100&section=footer" alt="Footer Banner"/>
-</div>
+</div>   like footer add on this modern header  and explain more in the about section and also use attractive font family
