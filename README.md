@@ -1,5 +1,4 @@
 # <div align="center">
-  <img src="https://github.com/sintayehu-dev/sintayehu-dev/blob/main/profile.jpg" alt="Profile Banner" width="100%" style="border-radius: 10px; box-shadow: 0 0 20px rgba(33, 150, 243, 0.3);"/>
 </div>
 
 <div align="center" style="margin: 30px 0;">
