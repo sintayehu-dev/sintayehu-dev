@@ -1,74 +1,106 @@
-# <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=200&section=header&text=Sintayehu%20Belfa&fontSize=80&fontAlignY=35&animation=twinkling" alt="Header Banner"/>
-</div>
-
-<div align="center" style="margin: 30px 0;">
-  <div style="background: linear-gradient(45deg, #2196F3, #00BCD4); padding: 20px; border-radius: 15px; box-shadow: 0 0 20px rgba(33, 150, 243, 0.2);">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=500&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Sintayehu+Belfa;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
-  </div>
-</div>
-
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sintayehu-dev&label=Profile%20views&color=2196F3&style=flat-square" alt="sintayehu-dev" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=220&section=header&text=Sintayehu%20Belfa&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&fontAlign=50" alt="Header Banner"/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=70&lines=Flutter+Mobile+App+Developer;Dart+|+BLoC%2FRiverpod+|+Clean+Architecture;Ship+fast%2C+performant%2C+beautiful+apps" alt="Typing SVG" />
+
+  <img src="https://komarev.com/ghpvc/?username=sintayehu-dev&label=Profile%20Views&color=0EA5E9&style=flat-square" alt="Profile views" />
+
 </div>
+
+---
 
 ## 🚀 About Me
-<div style="background-color: #f8f9fa; padding: 30px; border-radius: 15px; margin: 20px 0; box-shadow: 0 0 20px rgba(33, 150, 243, 0.1);">
-  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 30px;">
-    <div>
-      <h3 style="color: #2196F3; margin-bottom: 15px; font-size: 24px; font-weight: 700;">👨‍💻 Who am I?</h3>
-      <p style="margin: 0; line-height: 1.8; font-size: 16px; color: #333; font-weight: 500;">
-        I'm a passionate Full Stack Developer with expertise in both frontend and backend technologies. I love creating efficient, scalable, and user-friendly applications. My goal is to build solutions that make a positive impact on people's lives.
-      </p>
-    </div>
-  </div>
-</div>
+
+I’m a Flutter Mobile App Developer focused on building production-grade Android and iOS apps that are fast, reliable, and delightful.
+
+- **What I do**: End‑to‑end mobile development — from UI/UX and state management to CI/CD and store release.
+- **How I build**: **Flutter + Dart** with **BLoC/Riverpod**, **Clean Architecture**, **MVVM**, and **SOLID** principles.
+- **What I care about**: Pixel-perfect UI, smooth animations, offline-first experiences, accessibility, and performance.
+- **Ecosystem**: Firebase, REST/GraphQL, local storage, payments, notifications, deep-links, analytics, and app distribution.
+- **Impact**: I love turning complex requirements into **scalable** and **maintainable** apps users love to use daily.
+
+---
 
 ## 🌐 Connect with Me
+
 <div align="center">
-   <a href="https://sintayehu-dev.netlify.app/" target="blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  <a href="https://sintayehu-dev.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  
-  <a href="https://www.linkedin.com/in/sintayehu-belfa-1263262a1" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/sintayehu-belfa-1263262a1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://youtube.com/@Trialblazers_tech" target="blank">
+  <a href="https://youtube.com/@Trialblazers_tech" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </div>
 
-## 🛠️ Tech Stack
+---
 
-### Frontend Development
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; padding: 20px; background-color: #f8f9fa; border-radius: 10px; margin: 20px 0;">
+## 🛠️ Core Tech (Flutter-First)
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+
+  <!-- Flutter + Dart -->
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+
+  <!-- State Management -->
+  <img src="https://img.shields.io/badge/BLoC-075E54?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC"/>
+  <img src="https://img.shields.io/badge/Riverpod-0EA5E9?style=for-the-badge&logo=flutter&logoColor=white" alt="Riverpod"/>
+
+  <!-- Architecture -->
+  <img src="https://img.shields.io/badge/Clean%20Architecture-111827?style=for-the-badge&logo=google&logoColor=white" alt="Clean Architecture"/>
+  <img src="https://img.shields.io/badge/MVVM-374151?style=for-the-badge&logo=google&logoColor=white" alt="MVVM"/>
+
+  <!-- Backend & Services -->
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/REST-10B981?style=for-the-badge&logo=postman&logoColor=white" alt="REST"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+
+  <!-- Data & Storage -->
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Hive-FF6F00?style=for-the-badge&logo=hive&logoColor=white" alt="Hive"/>
+
+  <!-- Tooling & CI/CD -->
+  <img src="https://img.shields.io/badge/Flutter%20Gen-2563EB?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterGen"/>
+  <img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white" alt="Fastlane"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+
+  <!-- Other Frontend/Backend (secondary) -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</div>
-
-### Backend Development
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; padding: 20px; background-color: #f8f9fa; border-radius: 10px; margin: 20px 0;">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-</div>
-
-### Database Systems
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; padding: 20px; background-color: #f8f9fa; border-radius: 10px; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </div>
+
+---
+
+## 📱 What I Build
+
+- **Production mobile apps** with offline-first data, deep links, push notifications, and secure auth.
+- **Clean, testable codebases** using feature-driven folder structure, domain-driven modeling, and clear boundaries.
+- **Smooth UX**: custom animations, adaptive layouts, responsive design, and accessibility.
+
+---
+
+## 🧩 Preferred App Architecture
+
+- **Layers**: Presentation (Widgets + BLoC/Riverpod) → Domain (UseCases, Entities) → Data (Repositories, Data Sources)
+- **Principles**: SOLID, immutability, dependency inversion, separation of concerns
+- **Testing**: Unit, widget, and integration tests with golden snapshots
+
+---
+
+## 🔥 Featured Work
+
+- Coming soon. Meanwhile, browse my pinned repositories below.
+- Want a demo or a walkthrough? Reach out via my portfolio.
+
+---
 
 ## 📊 GitHub Stats
+
 <div style="display: flex; justify-content: space-between; gap: 20px; margin: 20px 0;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sintayehu-dev&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=sintayehu-dev&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="45%"/>
@@ -82,6 +114,15 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sintayehu-dev&theme=radical&row=1" alt="GitHub Trophies"/>
 </div>
 
+---
+
+## ✉️ Work With Me
+
+- I’m available for freelance project work and collaborations.
+- Share your requirements via my portfolio or LinkedIn — I’ll respond quickly.
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=100&section=footer" alt="Footer Banner"/>
-</div>   like footer add on this modern header  and explain more in the about section and also use attractive font family
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=120&section=footer&text=Let’s%20build%20something%20amazing%20with%20Flutter!&fontSize=28&fontColor=ffffff&animation=twinkling" alt="Footer Banner"/>
+
+</div>
