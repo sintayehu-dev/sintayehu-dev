@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=220&section=header&text=Sintayehu%20Belfa&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&fontAlign=50" alt="Header Banner"/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&height=70&lines=Flutter+Mobile+App+Developer;Dart+|+BLoC%2FRiverpod+|+Clean+Architecture;Also%3A+Full+Stack+Experience+(React%2C+Spring%2C+Django%2C+Go)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=70&lines=Flutter+Developer+%7C+Android+%26+iOS+Expert;Dart+%7C+BLoC%2FRiverpod+%7C+Clean+Architecture" alt="Typing SVG" />
 
   <img src="https://komarev.com/ghpvc/?username=sintayehu-dev&label=Profile%20Views&color=0EA5E9&style=flat-square" alt="Profile views" />
 
@@ -10,15 +10,15 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me (Flutter)
 
-I’m a Flutter Mobile App Developer delivering production-grade Android and iOS apps that are fast, reliable, and delightful.
+I design and ship high-quality Flutter apps for Android and iOS — performant, reliable, and beautiful.
 
-- **Focus**: Flutter/Dart, BLoC/Riverpod, Clean Architecture, SOLID, MVVM.
-- **Strengths**: Pixel‑perfect UI, smooth animations, offline‑first, performance, accessibility.
-- **Ecosystem**: Firebase, REST/GraphQL, local storage, payments, deep links, notifications, analytics, CI/CD.
-- **Full‑stack versatility**: Experience across React, Java/Spring Boot, Go, Python/Django, PHP — enabling seamless API design and integration.
-- **Outcome-driven**: I turn complex requirements into scalable, maintainable apps people use daily.
+- **Core**: Flutter + Dart with BLoC/Riverpod, Clean Architecture DDD, MVVM, SOLID.
+- **UX**: Pixel‑perfect UI, custom animations, adaptive/responsive layouts, accessibility.
+- **Mobile essentials**: Offline‑first data, deep links, push notifications, secure auth, analytics.
+- **Infra & delivery**: Firebase, REST/GraphQL integrations, crash reporting, CI/CD (Fastlane, GitHub Actions).
+- **Quality**: Feature‑driven structure, strong typing, code review discipline, unit/widget/integration tests.
 
 ---
 
@@ -88,26 +88,26 @@ I’m a Flutter Mobile App Developer delivering production-grade Android and iOS
 
 ---
 
-## 📱 What I Build
+## 📱 What I Build (Flutter)
 
-- **Production mobile apps**: offline-first data, deep links, push notifications, secure auth.
-- **Clean, testable codebases**: feature-driven structure, domain-driven modeling, clear boundaries.
-- **Smooth UX**: custom animations, adaptive layouts, responsive design, accessibility.
+- Production apps with offline‑first data, deep links, push notifications, and secure auth.
+- Clean, testable codebases with feature‑driven folders and clear domain boundaries.
+- Smooth UX: custom animations, adaptive layouts, responsive design, accessibility.
 
 ---
 
 ## 🧩 Preferred App Architecture
 
-- **Layers**: Presentation (Widgets + BLoC/Riverpod) → Domain (UseCases, Entities) → Data (Repositories, Data Sources)
-- **Principles**: SOLID, immutability, dependency inversion, separation of concerns
-- **Testing**: Unit, widget, and integration tests with golden snapshots
+- Layers: Presentation (Widgets + BLoC/Riverpod) → Domain (UseCases, Entities) → Data (Repositories, Data Sources)
+- Principles: SOLID, immutability, dependency inversion, separation of concerns
+- Testing: Unit, widget, and integration tests with golden snapshots
 
 ---
 
 ## 🔥 Featured Work
 
-- Coming soon. Meanwhile, browse my pinned repositories.
-- Want a demo or walkthrough? Reach out via my portfolio.
+- Explore my pinned repos for Flutter projects.
+- Need a walkthrough or demo? Message me via my portfolio.
 
 ---
 
@@ -131,7 +131,7 @@ I’m a Flutter Mobile App Developer delivering production-grade Android and iOS
 ## ✉️ Work With Me
 
 - Available for freelance projects and collaborations.
-- Contact me via portfolio or LinkedIn for quick response.
+- Contact me via portfolio or LinkedIn for a quick response.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=120&section=footer&text=Let’s%20build%20something%20amazing%20with%20Flutter!&fontSize=28&fontColor=ffffff&animation=twinkling" alt="Footer Banner"/>
